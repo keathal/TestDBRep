@@ -9,4 +9,6 @@ BEGIN
 -- comment from git editor
 -- comment from ssms
     select * from dbo.Notes order by [Value]
+
+	select * from dbo.TAB1
 END
