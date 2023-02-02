@@ -10,6 +10,6 @@ BEGIN
 -- comment from ssms
     select * from dbo.Notes order by [Value]
 
--- sp tab 1 comment from git editor
+-- test overwriting comment from git
 	select * from dbo.TAB1
 END
