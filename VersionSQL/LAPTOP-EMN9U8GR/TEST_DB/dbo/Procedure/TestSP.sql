@@ -10,5 +10,6 @@ BEGIN
 -- comment from ssms
     select * from dbo.Notes order by [Value]
 
+-- sp tab 1 comment from git editor
 	select * from dbo.TAB1
 END
